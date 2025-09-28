@@ -37,13 +37,13 @@ My first Microcontroller board had its essential pins rx and tx reversed and som
 ## Manufacturing with PCBWay
 Since PCBWay reached out to sponsor my project and help manufacture the boards, I have accepted their kindness then sent my gerber and nc drill files to their [website](https://www.pcbway.com/orderonline.aspx). Thanks to Liam from the marketing department and the helpful customer service workers of PCBWay, I was able to coordinate and order the PCBs with ease and receive them in just 1-2 weeks! 
 
-<img width="2500" height="860" alt="image-asset-662278807" src="https://github.com/user-attachments/assets/359bfbf6-7b55-4dd4-b9f4-a3657a82cddf" />
+<img width="1024" height="768" alt="image-asset-662278807" src="https://github.com/user-attachments/assets/359bfbf6-7b55-4dd4-b9f4-a3657a82cddf" />
 
 My review of their manufacturing experience is included in the Assembly section
 
-![5](https://github.com/user-attachments/assets/a6193a3c-d726-4be2-a0f1-ae85390d37f8)
+![33](https://github.com/user-attachments/assets/69e74b75-9f2f-41d3-9bc6-cbe9bac2c4bb)
 
-![4](https://github.com/user-attachments/assets/9ba667c5-70a0-4e29-af3d-b1b69edc6fbc)
+![22](https://github.com/user-attachments/assets/c1805fe2-3424-4d72-9b23-a85d7db2ffa1)
 
 
 
@@ -55,10 +55,5 @@ After hand soldering the BOM, with some calibration, All the boards and their in
 
 Here are the two assembled PCBs attached together to give the final project life.
 
-![6](https://github.com/user-attachments/assets/82efc096-acd2-43bf-99e3-b0f54d3cc952)
+![11](https://github.com/user-attachments/assets/7bd638a6-e674-446c-aed0-ccb21c3736f0)
 
-
-![3](https://github.com/user-attachments/assets/e618573b-8185-4ba2-b733-3e119f24553b)
-
-
-![1](https://github.com/user-attachments/assets/10468696-b19d-4b8c-9987-e3c19c35df07)
