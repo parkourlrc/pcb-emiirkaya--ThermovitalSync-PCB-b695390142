@@ -57,3 +57,5 @@ Here are the two assembled PCBs attached together to give the final project life
 
 ![11](https://github.com/user-attachments/assets/7bd638a6-e674-446c-aed0-ccb21c3736f0)
 
+Although the hardware part of the project is done, there needs to be embedded software written for the chip to maximize its usage(sd card, joystick and peltier function). Coming soon...
+
